@@ -19,7 +19,7 @@ const Footer = () => {
           <img src={gpt3Logo} alt='logo' />
           <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
         </div>
-        <div className='gpt3__footer-links_links'>
+        <div className='gpt3__footer-links_div'>
           <h4>Links</h4>
           <p>Overons</p>
           <p>Social Media</p>
@@ -27,14 +27,14 @@ const Footer = () => {
           <p>Contact</p>
         </div>
 
-        <div className='gpt3__footer-links_links'>
+        <div className='gpt3__footer-links_div'>
           <h4>Company</h4>
           <p>Terms & Conditions </p>
           <p>Privacy Policy</p>
           <p>Contact</p>
         </div>
 
-        <div className='gpt3__footer-links_links'>
+        <div className='gpt3__footer-links_div'>
           <h4>Get In Touch</h4>
           <p>Crechterwoord K12 182 DK Alknjkcb</p>
           <p>085-132567</p>
